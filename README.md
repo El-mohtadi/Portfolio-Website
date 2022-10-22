@@ -1,4 +1,4 @@
-# Portfolio-Website
+# MyPersonal Portfolio-Website
 Files Included:
 index.html
 main.css in css folder
@@ -7,3 +7,6 @@ app.json
 
 Installation:
 Install Visual studio code & execute
+
+
+Copyright @ El Mohtadi ali
